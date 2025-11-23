@@ -1,0 +1,7 @@
+{
+  "name": "ServicePro",
+  "description": "Um sistema de gestão integrado para serviços de manutenção de climatização, conectando gestores, técnicos e clientes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
